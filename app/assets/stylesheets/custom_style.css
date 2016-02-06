@@ -1,0 +1,6 @@
+.admin-nav-menu .icon_link::before{
+    color: yellow !important;
+}
+.admin-nav-menu li{
+	background: #707070 none repeat scroll 0 0;
+}
